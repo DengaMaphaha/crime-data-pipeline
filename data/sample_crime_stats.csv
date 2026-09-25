@@ -1,0 +1,505 @@
+province,year,category,count
+Western Cape,2018,murder,3178
+ Western Cape ,2018,sexual offences,883
+Western Cape,2018,robbery with aggravating circumstances,665
+Western Cape,2018,assault with intent to cause grievous bodily harm,2055
+ Western Cape ,2018,Burglary at Residential Premises,635
+Western Cape,2018,Theft of Motor Vehicle,1137
+Western Cape,2018,Drug-Related Crime,5030
+Western Cape,2018,Common Robbery,660
+Western Cape,2019,Murder,4187
+WESTERN CAPE,2019,Sexual Offences,6560
+Western Cape,2019,Robbery with Aggravating Circumstances,3690
+Western Cape,2019,assault with intent to cause grievous bodily harm,2723
+Western Cape,2019,Burglary at Residential Premises,4969
+Western Cape,2019,theft of motor vehicle,5164
+Western Cape,2019,drug-related crime,2412
+Western Cape,2019,Common Robbery,5745
+Western Cape,2020,Murder,5690
+Western Cape,2020,Sexual Offences,3857
+Western Cape,2020,Robbery with Aggravating Circumstances,3997
+Western Cape,2020,Assault with Intent to Cause Grievous Bodily Harm,2867
+Western Cape,2020,Burglary at Residential Premises,4314
+Western Cape,2020,Theft of Motor Vehicle,793
+Western Cape,2020,Drug-Related Crime,4771
+Western Cape,2020,Common Robbery,5562
+Western Cape,2021,Murder,5941
+Western Cape,2021,Sexual Offences,6797
+Western Cape,2021,Robbery with Aggravating Circumstances,5653
+western cape,2021,Assault with Intent to Cause Grievous Bodily Harm,1089
+ Western Cape ,2021,Burglary at Residential Premises,3525
+Western Cape,2021,Theft of Motor Vehicle,2745
+Western Cape,2021,Drug-Related Crime,5190
+Western Cape,2021,Common Robbery,1156
+Western Cape,2022,Murder,4202
+Western Cape,2022,Sexual Offences,5790
+Western Cape,2022,Robbery with Aggravating Circumstances,1061
+Western Cape,2022,Assault with Intent to Cause Grievous Bodily Harm,2233
+Western Cape,2022,Burglary at Residential Premises,2137
+Western Cape,2022,Theft of Motor Vehicle,4906
+Western Cape,2022,Drug-Related Crime,4175
+Western Cape,2022,Common Robbery,3835
+Western Cape,2023,Murder,1926
+Western Cape,2023,Sexual Offences,188
+Western Cape,2023,Robbery with Aggravating Circumstances,5665
+Western Cape,2023,assault with intent to cause grievous bodily harm,1817
+Western Cape,2023,burglary at residential premises,3857
+Western Cape,2023,Theft of Motor Vehicle,1174
+Western Cape,2023,Drug-Related Crime,6515
+western cape,2023,Common Robbery,5417
+Western Cape,2024,Murder,5007
+Western Cape,2024,Sexual Offences,2095
+WESTERN CAPE,2024,Robbery with Aggravating Circumstances,4650
+Western Cape,2024,Assault with Intent to Cause Grievous Bodily Harm,5048
+Western Cape,2024,Burglary at Residential Premises,5253
+Western Cape,2024,Theft of Motor Vehicle,1465
+Western Cape,2024,Drug-Related Crime,3509
+Western Cape,2024,common robbery,4848
+Gauteng,2018,Murder,3925
+Gauteng,2018,Sexual Offences,5900
+Gauteng,2018,Robbery with Aggravating Circumstances,4355
+Gauteng,2018,Assault with Intent to Cause Grievous Bodily Harm,2564
+Gauteng,2018,burglary at residential premises,3158
+Gauteng,2018,Theft of Motor Vehicle,684
+gauteng,2018,Drug-Related Crime,5681
+Gauteng,2018,Common Robbery,892
+Gauteng,2019,Murder,1610
+Gauteng,2019,sexual offences,2990
+Gauteng,2019,Robbery with Aggravating Circumstances,4106
+Gauteng,2019,Assault with Intent to Cause Grievous Bodily Harm,615
+gauteng,2019,Burglary at Residential Premises,802
+Gauteng,2019,Theft of Motor Vehicle,4107
+Gauteng,2019,Drug-Related Crime,5270
+Gauteng,2019,Common Robbery,697
+Gauteng,2020,murder,316
+gauteng,2020,Sexual Offences,684
+GAUTENG,2020,Robbery with Aggravating Circumstances,2575
+Gauteng,2020,Assault with Intent to Cause Grievous Bodily Harm,1448
+Gauteng,2020,Burglary at Residential Premises,5141
+Gauteng,2020,theft of motor vehicle,
+Gauteng,2020,Drug-Related Crime,4619
+Gauteng,2020,Common Robbery,1132
+Gauteng,2021,Murder,4191
+Gauteng,2021,Sexual Offences,2130
+Gauteng,2021,robbery with aggravating circumstances,3738
+GAUTENG,2021,Assault with Intent to Cause Grievous Bodily Harm,2394
+Gauteng,2021,Burglary at Residential Premises,7019
+Gauteng,2021,Theft of Motor Vehicle,1631
+ Gauteng,2021,Drug-Related Crime,4780
+Gauteng,2021,Common Robbery,3045
+gauteng,2022,Murder,5195
+Gauteng,2022,Sexual Offences,3240
+Gauteng,2022,Robbery with Aggravating Circumstances,5555
+Gauteng,2022,Assault with Intent to Cause Grievous Bodily Harm,5454
+GAUTENG,2022,Burglary at Residential Premises,6095
+GAUTENG,2022,Theft of Motor Vehicle,7218
+Gauteng,2022,Drug-Related Crime,345
+gauteng,2022,Common Robbery,6808
+Gauteng,2023,murder,
+Gauteng,2023,sexual offences,5459
+GAUTENG,2023,robbery with aggravating circumstances,5496
+Gauteng,2023,Assault with Intent to Cause Grievous Bodily Harm,2783
+Gauteng,2023,Burglary at Residential Premises,2514
+Gauteng,2023,theft of motor vehicle,5262
+ Gauteng,2023,Drug-Related Crime,1781
+gauteng,2023,Common Robbery,6146
+Gauteng,2024,Murder,1204
+Gauteng,2024,Sexual Offences,4620
+Gauteng,2024,robbery with aggravating circumstances,3647
+Gauteng,2024,Assault with Intent to Cause Grievous Bodily Harm,5786
+GAUTENG,2024,Burglary at Residential Premises,1931
+Gauteng,2024,Theft of Motor Vehicle,1503
+Gauteng,2024,Drug-Related Crime,3407
+Gauteng,2024,Common Robbery,239
+KwaZulu-Natal,2018,Murder,
+kwazulu-natal,2018,Sexual Offences,3218
+Kwazulu Natal,2018,Robbery with Aggravating Circumstances,2337
+KwaZulu-Natal,2018,Assault with Intent to Cause Grievous Bodily Harm,3500
+KwaZulu-Natal,2018,Burglary at Residential Premises,629
+KwaZulu-Natal,2018,Theft of Motor Vehicle,2281
+KwaZulu-Natal,2018,Drug-Related Crime,4075
+KwaZulu-Natal,2018,common robbery,4758
+Kwazulu Natal,2019,Murder,4094
+KwaZulu-Natal,2019,Sexual Offences,4259
+KwaZulu-Natal,2019,Robbery with Aggravating Circumstances,5254
+KwaZulu-Natal,2019,assault with intent to cause grievous bodily harm,3084
+KwaZulu-Natal,2019,Burglary at Residential Premises,4414
+KwaZulu-Natal,2019,theft of motor vehicle,3353
+KwaZulu-Natal,2019,Drug-Related Crime,872
+KwaZulu-Natal,2019,Common Robbery,347
+KwaZulu-Natal,2020,Murder,3194
+KwaZulu-Natal,2020,Sexual Offences,2917
+KwaZulu-Natal,2020,Robbery with Aggravating Circumstances,1785
+KwaZulu-Natal,2020,Assault with Intent to Cause Grievous Bodily Harm,4440
+KwaZulu-Natal,2020,Burglary at Residential Premises,428
+KwaZulu-Natal,2020,Theft of Motor Vehicle,3750
+KwaZulu-Natal,2020,Drug-Related Crime,4822
+KZN,2020,Common Robbery,5359
+KwaZulu-Natal,2021,murder,3717
+KwaZulu-Natal,2021,Sexual Offences,5908
+KwaZulu-Natal,2021,Robbery with Aggravating Circumstances,2431
+KwaZulu-Natal,2021,Assault with Intent to Cause Grievous Bodily Harm,2865
+KwaZulu-Natal,2021,Burglary at Residential Premises,4702
+KwaZulu-Natal,2021,Theft of Motor Vehicle,3117
+KwaZulu-Natal,2021,Drug-Related Crime,2034
+KwaZulu-Natal,2021,Common Robbery,1895
+KwaZulu-Natal,2022,Murder,6147
+KwaZulu-Natal,2022,sexual offences,3860
+KwaZulu-Natal,2022,Robbery with Aggravating Circumstances,4176
+KwaZulu-Natal,2022,Assault with Intent to Cause Grievous Bodily Harm,1789
+KwaZulu-Natal,2022,Burglary at Residential Premises,5881
+KwaZulu-Natal,2022,Theft of Motor Vehicle,5437
+kwazulu-natal,2022,Drug-Related Crime,438
+KwaZulu-Natal,2022,Common Robbery,4805
+KwaZulu-Natal,2023,Murder,1643
+KwaZulu-Natal,2023,Sexual Offences,445
+Kwazulu Natal,2023,robbery with aggravating circumstances,3909
+KwaZulu-Natal,2023,Assault with Intent to Cause Grievous Bodily Harm,1361
+KwaZulu-Natal,2023,burglary at residential premises,3377
+KwaZulu-Natal,2023,Theft of Motor Vehicle,3729
+KwaZulu-Natal,2023,Drug-Related Crime,3988
+KwaZulu-Natal,2023,Common Robbery,534
+KwaZulu-Natal,2024,Murder,2213
+KwaZulu-Natal,2024,Sexual Offences,5299
+KwaZulu-Natal,2024,Robbery with Aggravating Circumstances,2597
+KwaZulu-Natal,2024,Assault with Intent to Cause Grievous Bodily Harm,692
+KwaZulu-Natal,2024,Burglary at Residential Premises,4253
+KwaZulu-Natal,2024,Theft of Motor Vehicle,4502
+KwaZulu-Natal,2024,Drug-Related Crime,1691
+KwaZulu-Natal,2024,Common Robbery,5185
+Eastern Cape,2018,Murder,710
+Eastern Cape,2018,Sexual Offences,1677
+Eastern Cape,2018,Robbery with Aggravating Circumstances,2405
+Eastern Cape,2018,Assault with Intent to Cause Grievous Bodily Harm,6808
+Eastern Cape,2018,Burglary at Residential Premises,4066
+Eastern Cape,2018,Theft of Motor Vehicle,6027
+Eastern Cape,2018,Drug-Related Crime,2486
+Eastern Cape,2018,Common Robbery,1748
+Eastern Cape,2019,Murder,2818
+Eastern Cape,2019,Sexual Offences,3235
+Eastern Cape,2019,Robbery with Aggravating Circumstances,6156
+Eastern Cape,2019,Assault with Intent to Cause Grievous Bodily Harm,866
+Eastern Cape,2019,burglary at residential premises,4426
+Eastern Cape,2019,Theft of Motor Vehicle,1003
+Eastern Cape,2019,Drug-Related Crime,2023
+Eastern Cape,2019,Common Robbery,4065
+Eastern Cape,2020,Murder,187
+Eastern Cape,2020,Sexual Offences,1763
+Eastern Cape,2020,Robbery with Aggravating Circumstances,2043
+Eastern Cape,2020,Assault with Intent to Cause Grievous Bodily Harm,282
+Eastern Cape,2020,Burglary at Residential Premises,5238
+Eastern Cape,2020,Theft of Motor Vehicle,4893
+Eastern Cape,2020,Drug-Related Crime,6013
+Eastern Cape,2020,Common Robbery,1530
+Eastern Cape,2021,Murder,5772
+Eastern Cape,2021,Sexual Offences,
+Eastern Cape,2021,Robbery with Aggravating Circumstances,3559
+Eastern Cape,2021,Assault with Intent to Cause Grievous Bodily Harm,211
+Eastern Cape,2021,Burglary at Residential Premises,943
+Eastern Cape,2021,theft of motor vehicle,1435
+Eastern Cape,2021,Drug-Related Crime,3248
+Eastern Cape,2021,Common Robbery,4207
+Eastern Cape,2022,Murder,1966
+Eastern Cape,2022,Sexual Offences,1860
+Eastern Cape,2022,Robbery with Aggravating Circumstances,4340
+Eastern Cape,2022,Assault with Intent to Cause Grievous Bodily Harm,1074
+Eastern Cape,2022,Burglary at Residential Premises,1706
+Eastern Cape,2022,Theft of Motor Vehicle,6410
+Eastern Cape,2022,Drug-Related Crime,1870
+Eastern Cape,2022,Common Robbery,3071
+Eastern Cape,2023,Murder,1712
+Eastern Cape,2023,Sexual Offences,558
+Eastern Cape,2023,Robbery with Aggravating Circumstances,4532
+Eastern Cape,2023,Assault with Intent to Cause Grievous Bodily Harm,3892
+Eastern Cape,2023,Burglary at Residential Premises,3575
+Eastern Cape,2023,Theft of Motor Vehicle,6877
+Eastern Cape,2023,Drug-Related Crime,6503
+Eastern Cape,2023,common robbery,4491
+Eastern Cape,2024,Murder,3253
+Eastern Cape,2024,Sexual Offences,491
+Eastern Cape,2024,Robbery with Aggravating Circumstances,3476
+Eastern Cape,2024,Assault with Intent to Cause Grievous Bodily Harm,5646
+Eastern Cape,2024,Burglary at Residential Premises,471
+Eastern Cape,2024,Theft of Motor Vehicle,1121
+Eastern Cape,2024,Drug-Related Crime,1871
+Eastern Cape,2024,Common Robbery,3686
+Free State,2018,Murder,4826
+Free State,2018,Sexual Offences,4857
+Free State,2018,Robbery with Aggravating Circumstances,5204
+Free State,2018,Assault with Intent to Cause Grievous Bodily Harm,1593
+Free State,2018,Burglary at Residential Premises,3171
+Free State,2018,theft of motor vehicle,1179
+Free State,2018,Drug-Related Crime,3924
+Free State,2018,Common Robbery,931
+Free State,2019,Murder,3056
+Free State,2019,sexual offences,3031
+Free State,2019,robbery with aggravating circumstances,5737
+Free State,2019,Assault with Intent to Cause Grievous Bodily Harm,2163
+Free State,2019,Burglary at Residential Premises,6437
+Free State,2019,Theft of Motor Vehicle,1811
+Free State,2019,drug-related crime,4296
+Free State,2019,common robbery,
+Free State,2020,Murder,3049
+Free State,2020,Sexual Offences,3841
+Free State,2020,Robbery with Aggravating Circumstances,
+Free State,2020,Assault with Intent to Cause Grievous Bodily Harm,2415
+Free State,2020,Burglary at Residential Premises,1572
+Free State,2020,theft of motor vehicle,2796
+Free State,2020,Drug-Related Crime,3291
+Free State,2020,Common Robbery,4979
+Free State,2021,murder,482
+Free State,2021,Sexual Offences,
+Free State,2021,Robbery with Aggravating Circumstances,5321
+Free State,2021,Assault with Intent to Cause Grievous Bodily Harm,4945
+Free State,2021,Burglary at Residential Premises,5088
+Free State,2021,Theft of Motor Vehicle,3651
+Free State,2021,Drug-Related Crime,4204
+Free State,2021,Common Robbery,3040
+Free State,2022,Murder,4143
+Free State,2022,Sexual Offences,4200
+Free State,2022,Robbery with Aggravating Circumstances,3596
+Free State,2022,Assault with Intent to Cause Grievous Bodily Harm,4033
+Free State,2022,Burglary at Residential Premises,4171
+Free State,2022,Theft of Motor Vehicle,4247
+Free State,2022,Drug-Related Crime,4054
+Free State,2022,Common Robbery,4121
+Free State,2023,Murder,3941
+Free State,2023,Sexual Offences,4646
+Free State,2023,Robbery with Aggravating Circumstances,4148
+Free State,2023,Assault with Intent to Cause Grievous Bodily Harm,5299
+Free State,2023,Burglary at Residential Premises,4193
+Free State,2023,Theft of Motor Vehicle,3739
+Free State,2023,Drug-Related Crime,4013
+Free State,2023,Common Robbery,4029
+Free State,2024,Murder,3746
+Free State,2024,Sexual Offences,5348
+Free State,2024,Robbery with Aggravating Circumstances,3616
+Free State,2024,Assault with Intent to Cause Grievous Bodily Harm,4368
+Free State,2024,Burglary at Residential Premises,4444
+Free State,2024,Theft of Motor Vehicle,4711
+Free State,2024,Drug-Related Crime,4614
+Free State,2024,Common Robbery,5424
+Limpopo,2018,Murder,825
+Limpopo,2018,Sexual Offences,1435
+Limpopo,2018,Robbery with Aggravating Circumstances,2711
+Limpopo,2018,Assault with Intent to Cause Grievous Bodily Harm,1406
+Limpopo,2018,Burglary at Residential Premises,2352
+Limpopo,2018,Theft of Motor Vehicle,4030
+Limpopo,2018,Drug-Related Crime,1228
+Limpopo,2018,Common Robbery,2608
+Limpopo,2019,Murder,2330
+Limpopo,2019,Sexual Offences,2495
+Limpopo,2019,Robbery with Aggravating Circumstances,3810
+Limpopo,2019,Assault with Intent to Cause Grievous Bodily Harm,2921
+Limpopo,2019,Burglary at Residential Premises,3853
+Limpopo,2019,Theft of Motor Vehicle,4133
+Limpopo,2019,Drug-Related Crime,4080
+Limpopo,2019,Common Robbery,4312
+Limpopo,2020,Murder,2989
+Limpopo,2020,Sexual Offences,2708
+Limpopo,2020,Robbery with Aggravating Circumstances,4131
+Limpopo,2020,Assault with Intent to Cause Grievous Bodily Harm,4028
+Limpopo,2020,Burglary at Residential Premises,3771
+Limpopo,2020,Theft of Motor Vehicle,5266
+Limpopo,2020,Drug-Related Crime,3527
+Limpopo,2020,Common Robbery,3743
+Limpopo,2021,Murder,4143
+Limpopo,2021,Sexual Offences,3856
+Limpopo,2021,Robbery with Aggravating Circumstances,4267
+Limpopo,2021,Assault with Intent to Cause Grievous Bodily Harm,3908
+Limpopo,2021,Burglary at Residential Premises,4241
+Limpopo,2021,Theft of Motor Vehicle,5227
+Limpopo,2021,Drug-Related Crime,2941
+Limpopo,2021,Common Robbery,3739
+Limpopo,2022,Murder,3696
+Limpopo,2022,Sexual Offences,4276
+Limpopo,2022,Robbery with Aggravating Circumstances,4423
+Limpopo,2022,Assault with Intent to Cause Grievous Bodily Harm,3654
+Limpopo,2022,Burglary at Residential Premises,3757
+Limpopo,2022,Theft of Motor Vehicle,4813
+Limpopo,2022,Drug-Related Crime,3979
+Limpopo,2022,Common Robbery,4090
+Limpopo,2023,Murder,4139
+Limpopo,2023,Sexual Offences,4358
+Limpopo,2023,Robbery with Aggravating Circumstances,4517
+Limpopo,2023,Assault with Intent to Cause Grievous Bodily Harm,3999
+Limpopo,2023,Burglary at Residential Premises,4198
+Limpopo,2023,Theft of Motor Vehicle,4738
+Limpopo,2023,Drug-Related Crime,3993
+Limpopo,2023,Common Robbery,4194
+Limpopo,2024,Murder,4204
+Limpopo,2024,Sexual Offences,4548
+Limpopo,2024,Robbery with Aggravating Circumstances,4632
+Limpopo,2024,Assault with Intent to Cause Grievous Bodily Harm,4300
+Limpopo,2024,Burglary at Residential Premises,4407
+Limpopo,2024,Theft of Motor Vehicle,5024
+Limpopo,2024,Drug-Related Crime,4245
+Limpopo,2024,Common Robbery,4358
+Mpumalanga,2018,Murder,920
+Mpumalanga,2018,Sexual Offences,1516
+Mpumalanga,2018,Robbery with Aggravating Circumstances,2905
+Mpumalanga,2018,Assault with Intent to Cause Grievous Bodily Harm,1493
+Mpumalanga,2018,Burglary at Residential Premises,2409
+Mpumalanga,2018,Theft of Motor Vehicle,4260
+Mpumalanga,2018,Drug-Related Crime,1341
+Mpumalanga,2018,Common Robbery,2801
+Mpumalanga,2019,Murder,2419
+Mpumalanga,2019,Sexual Offences,2589
+Mpumalanga,2019,Robbery with Aggravating Circumstances,3982
+Mpumalanga,2019,Assault with Intent to Cause Grievous Bodily Harm,3038
+Mpumalanga,2019,Burglary at Residential Premises,3985
+Mpumalanga,2019,Theft of Motor Vehicle,4290
+Mpumalanga,2019,Drug-Related Crime,4197
+Mpumalanga,2019,Common Robbery,4503
+Mpumalanga,2020,Murder,3081
+Mpumalanga,2020,Sexual Offences,2820
+Mpumalanga,2020,Robbery with Aggravating Circumstances,4276
+Mpumalanga,2020,Assault with Intent to Cause Grievous Bodily Harm,4224
+Mpumalanga,2020,Burglary at Residential Premises,3968
+Mpumalanga,2020,Theft of Motor Vehicle,5426
+Mpumalanga,2020,Drug-Related Crime,3673
+Mpumalanga,2020,Common Robbery,3897
+Mpumalanga,2021,Murder,4260
+Mpumalanga,2021,Sexual Offences,4010
+Mpumalanga,2021,Robbery with Aggravating Circumstances,4433
+Mpumalanga,2021,Assault with Intent to Cause Grievous Bodily Harm,4067
+Mpumalanga,2021,Burglary at Residential Premises,4415
+Mpumalanga,2021,Theft of Motor Vehicle,5382
+Mpumalanga,2021,Drug-Related Crime,3072
+Mpumalanga,2021,Common Robbery,3900
+Mpumalanga,2022,Murder,3798
+Mpumalanga,2022,Sexual Offences,4436
+Mpumalanga,2022,Robbery with Aggravating Circumstances,4592
+Mpumalanga,2022,Assault with Intent to Cause Grievous Bodily Harm,3782
+Mpumalanga,2022,Burglary at Residential Premises,3899
+Mpumalanga,2022,Theft of Motor Vehicle,4979
+Mpumalanga,2022,Drug-Related Crime,4127
+Mpumalanga,2022,Common Robbery,4225
+Mpumalanga,2023,Murder,4293
+Mpumalanga,2023,Sexual Offences,4529
+Mpumalanga,2023,Robbery with Aggravating Circumstances,4689
+Mpumalanga,2023,Assault with Intent to Cause Grievous Bodily Harm,4148
+Mpumalanga,2023,Burglary at Residential Premises,4354
+Mpumalanga,2023,Theft of Motor Vehicle,4912
+Mpumalanga,2023,Drug-Related Crime,4143
+Mpumalanga,2023,Common Robbery,4331
+Mpumalanga,2024,Murder,4358
+Mpumalanga,2024,Sexual Offences,4708
+Mpumalanga,2024,Robbery with Aggravating Circumstances,4791
+Mpumalanga,2024,Assault with Intent to Cause Grievous Bodily Harm,4446
+Mpumalanga,2024,Burglary at Residential Premises,4553
+Mpumalanga,2024,Theft of Motor Vehicle,5179
+Mpumalanga,2024,Drug-Related Crime,4396
+Mpumalanga,2024,Common Robbery,4507
+North West,2018,Murder,633
+North West,2018,Sexual Offences,1156
+North West,2018,Robbery with Aggravating Circumstances,2482
+North West,2018,Assault with Intent to Cause Grievous Bodily Harm,1113
+North West,2018,Burglary at Residential Premises,1987
+North West,2018,Theft of Motor Vehicle,3597
+North West,2018,Drug-Related Crime,1035
+North West,2018,Common Robbery,2378
+North West,2019,Murder,2036
+North West,2019,Sexual Offences,2183
+North West,2019,Robbery with Aggravating Circumstances,3400
+North West,2019,Assault with Intent to Cause Grievous Bodily Harm,2504
+North West,2019,Burglary at Residential Premises,3435
+North West,2019,Theft of Motor Vehicle,3672
+North West,2019,Drug-Related Crime,3547
+North West,2019,Common Robbery,3843
+North West,2020,Murder,2570
+North West,2020,Sexual Offences,2306
+North West,2020,Robbery with Aggravating Circumstances,3701
+North West,2020,Assault with Intent to Cause Grievous Bodily Harm,3579
+North West,2020,Burglary at Residential Premises,3347
+North West,2020,Theft of Motor Vehicle,4740
+North West,2020,Drug-Related Crime,3070
+North West,2020,Common Robbery,3339
+North West,2021,Murder,3625
+North West,2021,Sexual Offences,3401
+North West,2021,Robbery with Aggravating Circumstances,3768
+North West,2021,Assault with Intent to Cause Grievous Bodily Harm,3436
+North West,2021,Burglary at Residential Premises,3771
+North West,2021,Theft of Motor Vehicle,4611
+North West,2021,Drug-Related Crime,2564
+North West,2021,Common Robbery,3299
+North West,2022,Murder,3141
+North West,2022,Sexual Offences,3705
+North West,2022,Robbery with Aggravating Circumstances,3923
+North West,2022,Assault with Intent to Cause Grievous Bodily Harm,3163
+North West,2022,Burglary at Residential Premises,3238
+North West,2022,Theft of Motor Vehicle,4208
+North West,2022,Drug-Related Crime,3413
+North West,2022,Common Robbery,3538
+North West,2023,Murder,3557
+North West,2023,Sexual Offences,3777
+North West,2023,Robbery with Aggravating Circumstances,3924
+North West,2023,Assault with Intent to Cause Grievous Bodily Harm,3475
+North West,2023,Burglary at Residential Premises,3626
+North West,2023,Theft of Motor Vehicle,4128
+North West,2023,Drug-Related Crime,3450
+North West,2023,Common Robbery,3591
+North West,2024,Murder,3610
+North West,2024,Sexual Offences,3966
+North West,2024,Robbery with Aggravating Circumstances,4014
+North West,2024,Assault with Intent to Cause Grievous Bodily Harm,3720
+North West,2024,Burglary at Residential Premises,3806
+North West,2024,Theft of Motor Vehicle,4325
+North West,2024,Drug-Related Crime,3661
+North West,2024,Common Robbery,3768
+Northern Cape,2018,Murder,215
+Northern Cape,2018,Sexual Offences,481
+Northern Cape,2018,Robbery with Aggravating Circumstances,1188
+Northern Cape,2018,Assault with Intent to Cause Grievous Bodily Harm,388
+Northern Cape,2018,Burglary at Residential Premises,847
+Northern Cape,2018,Theft of Motor Vehicle,1811
+Northern Cape,2018,Drug-Related Crime,342
+Northern Cape,2018,Common Robbery,1080
+Northern Cape,2019,Murder,984
+Northern Cape,2019,Sexual Offences,1039
+Northern Cape,2019,Robbery with Aggravating Circumstances,1789
+Northern Cape,2019,Assault with Intent to Cause Grievous Bodily Harm,1223
+Northern Cape,2019,Burglary at Residential Premises,1837
+Northern Cape,2019,Theft of Motor Vehicle,1989
+Northern Cape,2019,Drug-Related Crime,1917
+Northern Cape,2019,Common Robbery,2076
+Northern Cape,2020,Murder,1310
+Northern Cape,2020,Sexual Offences,1150
+Northern Cape,2020,Robbery with Aggravating Circumstances,1927
+Northern Cape,2020,Assault with Intent to Cause Grievous Bodily Harm,1861
+Northern Cape,2020,Burglary at Residential Premises,1751
+Northern Cape,2020,Theft of Motor Vehicle,2632
+Northern Cape,2020,Drug-Related Crime,1573
+Northern Cape,2020,Common Robbery,1707
+Northern Cape,2021,Murder,1888
+Northern Cape,2021,Sexual Offences,1739
+Northern Cape,2021,Robbery with Aggravating Circumstances,1971
+Northern Cape,2021,Assault with Intent to Cause Grievous Bodily Harm,1783
+Northern Cape,2021,Burglary at Residential Premises,1978
+Northern Cape,2021,Theft of Motor Vehicle,2440
+Northern Cape,2021,Drug-Related Crime,1310
+Northern Cape,2021,Common Robbery,1700
+Northern Cape,2022,Murder,1637
+Northern Cape,2022,Sexual Offences,1946
+Northern Cape,2022,Robbery with Aggravating Circumstances,2062
+Northern Cape,2022,Assault with Intent to Cause Grievous Bodily Harm,1640
+Northern Cape,2022,Burglary at Residential Premises,1687
+Northern Cape,2022,Theft of Motor Vehicle,2233
+Northern Cape,2022,Drug-Related Crime,1774
+Northern Cape,2022,Common Robbery,1857
+Northern Cape,2023,Murder,1875
+Northern Cape,2023,Sexual Offences,1998
+Northern Cape,2023,Robbery with Aggravating Circumstances,2075
+Northern Cape,2023,Assault with Intent to Cause Grievous Bodily Harm,1846
+Northern Cape,2023,Burglary at Residential Premises,1935
+Northern Cape,2023,Theft of Motor Vehicle,2199
+Northern Cape,2023,Drug-Related Crime,1836
+Northern Cape,2023,Common Robbery,1913
+Northern Cape,2024,Murder,1919
+Northern Cape,2024,Sexual Offences,2114
+Northern Cape,2024,Robbery with Aggravating Circumstances,2140
+Northern Cape,2024,Assault with Intent to Cause Grievous Bodily Harm,1985
+Northern Cape,2024,Burglary at Residential Premises,2032
+Northern Cape,2024,Theft of Motor Vehicle,2380
+Northern Cape,2024,Drug-Related Crime,1963
+Northern Cape,2024,Common Robbery,2038
