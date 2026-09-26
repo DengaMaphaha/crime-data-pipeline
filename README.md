@@ -28,3 +28,5 @@ totals by province.
 ## Tests
 
     pytest
+
+##  Verification code: WTC-6VL5YFJG
