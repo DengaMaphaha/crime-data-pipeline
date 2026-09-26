@@ -24,19 +24,48 @@ def run_query(sql: str) -> list[dict]:
         conn.close()
 
 
+ENDPOINTS = [
+    ("/reports/by-province", "Crime totals by province"),
+    ("/reports/by-year", "Crime totals by year"),
+    ("/reports/by-province-year", "Crime totals by province and year"),
+    ("/reports/top-categories", "Top 5 crime categories nationally"),
+    ("/reports/top-category-per-province", "Top category per province"),
+    ("/reports/year-over-year", "Year-over-year change per province"),
+]
+
+
 @app.get("/")
 def index():
-    return jsonify({
-        "service": "crime-data-pipeline API",
-        "endpoints": [
-            "/reports/by-province",
-            "/reports/by-year",
-            "/reports/by-province-year",
-            "/reports/top-categories",
-            "/reports/top-category-per-province",
-            "/reports/year-over-year",
-        ],
-    })
+    links = "".join(
+        f'<li><a href="{path}"><code>{path}</code></a> — {desc}</li>'
+        for path, desc in ENDPOINTS
+    )
+    return f"""
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Crime Data Pipeline API</title>
+        <style>
+            body {{ font-family: -apple-system, Segoe UI, Roboto, sans-serif;
+                    max-width: 640px; margin: 60px auto; padding: 0 20px;
+                    background: #0f172a; color: #e2e8f0; }}
+            h1 {{ font-size: 1.6rem; margin-bottom: 4px; }}
+            p.subtitle {{ color: #94a3b8; margin-top: 0; }}
+            ul {{ list-style: none; padding: 0; }}
+            li {{ background: #1e293b; margin: 10px 0; padding: 14px 18px;
+                  border-radius: 8px; }}
+            a {{ color: #38bdf8; text-decoration: none; font-weight: 600; }}
+            a:hover {{ text-decoration: underline; }}
+            code {{ font-size: 0.95rem; }}
+        </style>
+    </head>
+    <body>
+        <h1>Crime Data Pipeline API</h1>
+        <p class="subtitle">South African crime statistics — extracted, cleaned, loaded into PostgreSQL, served as JSON.</p>
+        <ul>{links}</ul>
+    </body>
+    </html>
+    """
 
 
 @app.get("/reports/by-province")
